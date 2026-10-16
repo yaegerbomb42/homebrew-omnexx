@@ -1,8 +1,8 @@
 class Omnexx < Formula
   desc "Long-running coding agent: set a goal, walk away, come back to commits"
   homepage "https://omnexx.org"
-  url "https://registry.npmjs.org/omnexx/-/omnexx-0.15.0.tgz"
-  sha256 "f36a573595f579c46ebd2f2e2a4515785c515b0b8b250d3c0fe346d2f8f2c9ff"
+  url "https://registry.npmjs.org/omnexx/-/omnexx-0.16.0.tgz"
+  sha256 "36eefb04bb34083de01d01b6ee917e5896f50f7c6fe580bff16d654aca2e3443"
   license "MIT"
 
   depends_on "node"
